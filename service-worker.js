@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Heartstone-App/precache-manifest.c1caa32e641ee5570ea454c76e6e8f5c.js"
+  "/Heartstone-App/precache-manifest.4023f7b7d91eccdccacb4836b27b81bd.js"
 );
 
 self.addEventListener('message', (event) => {

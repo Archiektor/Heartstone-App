@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Heartstone-App/static/css/main.709a1e02.chunk.css",
-    "main.js": "/Heartstone-App/static/js/main.78c93a86.chunk.js",
-    "main.js.map": "/Heartstone-App/static/js/main.78c93a86.chunk.js.map",
+    "main.js": "/Heartstone-App/static/js/main.e7b83c39.chunk.js",
+    "main.js.map": "/Heartstone-App/static/js/main.e7b83c39.chunk.js.map",
     "runtime-main.js": "/Heartstone-App/static/js/runtime-main.20d14bb7.js",
     "runtime-main.js.map": "/Heartstone-App/static/js/runtime-main.20d14bb7.js.map",
-    "static/js/2.2f89f4b7.chunk.js": "/Heartstone-App/static/js/2.2f89f4b7.chunk.js",
-    "static/js/2.2f89f4b7.chunk.js.map": "/Heartstone-App/static/js/2.2f89f4b7.chunk.js.map",
+    "static/js/2.4d76d669.chunk.js": "/Heartstone-App/static/js/2.4d76d669.chunk.js",
+    "static/js/2.4d76d669.chunk.js.map": "/Heartstone-App/static/js/2.4d76d669.chunk.js.map",
     "index.html": "/Heartstone-App/index.html",
-    "precache-manifest.c1caa32e641ee5570ea454c76e6e8f5c.js": "/Heartstone-App/precache-manifest.c1caa32e641ee5570ea454c76e6e8f5c.js",
+    "precache-manifest.4023f7b7d91eccdccacb4836b27b81bd.js": "/Heartstone-App/precache-manifest.4023f7b7d91eccdccacb4836b27b81bd.js",
     "service-worker.js": "/Heartstone-App/service-worker.js",
     "static/css/main.709a1e02.chunk.css.map": "/Heartstone-App/static/css/main.709a1e02.chunk.css.map",
-    "static/js/2.2f89f4b7.chunk.js.LICENSE.txt": "/Heartstone-App/static/js/2.2f89f4b7.chunk.js.LICENSE.txt"
+    "static/js/2.4d76d669.chunk.js.LICENSE.txt": "/Heartstone-App/static/js/2.4d76d669.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.20d14bb7.js",
-    "static/js/2.2f89f4b7.chunk.js",
+    "static/js/2.4d76d669.chunk.js",
     "static/css/main.709a1e02.chunk.css",
-    "static/js/main.78c93a86.chunk.js"
+    "static/js/main.e7b83c39.chunk.js"
   ]
 }
