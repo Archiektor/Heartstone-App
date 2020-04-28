@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hs-app/static/css/main.3a9ddfe3.chunk.css",
-    "main.js": "/hs-app/static/js/main.89a3faed.chunk.js",
-    "main.js.map": "/hs-app/static/js/main.89a3faed.chunk.js.map",
-    "runtime-main.js": "/hs-app/static/js/runtime-main.0e548a97.js",
-    "runtime-main.js.map": "/hs-app/static/js/runtime-main.0e548a97.js.map",
-    "static/js/2.40ece767.chunk.js": "/hs-app/static/js/2.40ece767.chunk.js",
-    "static/js/2.40ece767.chunk.js.map": "/hs-app/static/js/2.40ece767.chunk.js.map",
-    "index.html": "/hs-app/index.html",
-    "precache-manifest.6210aaf1a447160aaffe7ceda5c3d1ba.js": "/hs-app/precache-manifest.6210aaf1a447160aaffe7ceda5c3d1ba.js",
-    "service-worker.js": "/hs-app/service-worker.js",
-    "static/css/main.3a9ddfe3.chunk.css.map": "/hs-app/static/css/main.3a9ddfe3.chunk.css.map",
-    "static/js/2.40ece767.chunk.js.LICENSE.txt": "/hs-app/static/js/2.40ece767.chunk.js.LICENSE.txt"
+    "main.css": "/Heartstone-App/static/css/main.709a1e02.chunk.css",
+    "main.js": "/Heartstone-App/static/js/main.78c93a86.chunk.js",
+    "main.js.map": "/Heartstone-App/static/js/main.78c93a86.chunk.js.map",
+    "runtime-main.js": "/Heartstone-App/static/js/runtime-main.20d14bb7.js",
+    "runtime-main.js.map": "/Heartstone-App/static/js/runtime-main.20d14bb7.js.map",
+    "static/js/2.2f89f4b7.chunk.js": "/Heartstone-App/static/js/2.2f89f4b7.chunk.js",
+    "static/js/2.2f89f4b7.chunk.js.map": "/Heartstone-App/static/js/2.2f89f4b7.chunk.js.map",
+    "index.html": "/Heartstone-App/index.html",
+    "precache-manifest.c1caa32e641ee5570ea454c76e6e8f5c.js": "/Heartstone-App/precache-manifest.c1caa32e641ee5570ea454c76e6e8f5c.js",
+    "service-worker.js": "/Heartstone-App/service-worker.js",
+    "static/css/main.709a1e02.chunk.css.map": "/Heartstone-App/static/css/main.709a1e02.chunk.css.map",
+    "static/js/2.2f89f4b7.chunk.js.LICENSE.txt": "/Heartstone-App/static/js/2.2f89f4b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e548a97.js",
-    "static/js/2.40ece767.chunk.js",
-    "static/css/main.3a9ddfe3.chunk.css",
-    "static/js/main.89a3faed.chunk.js"
+    "static/js/runtime-main.20d14bb7.js",
+    "static/js/2.2f89f4b7.chunk.js",
+    "static/css/main.709a1e02.chunk.css",
+    "static/js/main.78c93a86.chunk.js"
   ]
 }
